@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Learn Sichuan Mahjong!
+image: /img/3215435043.png
+heading: Join the mahjong club
+subheading: Have fun mastering the simplest variant of mahjong
 mainpitch:
-  title: Why Kaldi
+  title: The Ultimate Mahjong Resource
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
