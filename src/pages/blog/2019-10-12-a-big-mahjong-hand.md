@@ -9,3 +9,5 @@ tags:
   - hand example
 ---
 # 🀐🀑🀒🀓🀓🀓🀓🀔🀕🀖🀗🀗🀗🀘🀘
+
+This hand is all the same suit with a kong.
